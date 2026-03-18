@@ -94,7 +94,8 @@ To https://github.com/werdfgy/lab02.git
 * e8b6c91 add hello_world with bad code style
 * 4e586e6 added README.md
 ```
-![[Pasted image 20260318192715.png]]
+Pasted image 20260318192715.png
+https://github.com/werdfgy/lab02/blob/427f91af758782b21fbe8bb0d802385e42e8fd6b/Pasted%20image%2020260318192715.png
 ### Part II
 
 [](https://github.com/tp-labs/lab02#part-ii)
