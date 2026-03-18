@@ -1,4 +1,4 @@
-<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/0923d935-dcee-43ea-9c63-67baaf62fa83" /><img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/0923d935-dcee-43ea-9c63-67baaf62fa83" /># Homework
+# Homework
 ## Сделал: Жданов Владимир ИУ8-23
 ### Part I
 
@@ -362,8 +362,6 @@ To https://github.com/werdfgy/lab02.git
  + 8e53df0...f6b6a71 patch2 -> patch2 (forced update)
    ```
 8. Убедитель, что в pull-request пропали конфликтны.
-<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/2bf3f01f-81b5-4f65-9958-faf41dfd829e" />
-
+  ![[Pasted image 20260318203305.png]]
 9. Вмержите pull-request `patch2 -> master`.
-<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/a55b4c58-136e-4e15-a674-4231dd8b9f20" />
-
+ ![[Pasted image 20260318203337.png]]
