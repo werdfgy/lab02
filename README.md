@@ -364,17 +364,7 @@ To https://github.com/werdfgy/lab02.git
 8. Убедитель, что в pull-request пропали конфликтны.
 Pasted image 20260318203305.png
 9. Вмержите pull-request `patch2 -> master`.
-P<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/4304a0b2-5e05-4e6c-93dc-f7998aa57d8d" /><img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/4304a0b2-5e05-4e6c-93dc-f7998aa57d8d" />
-<img width="1174" height="713" alt="Pasted image 20260318201749" src="https://github.com/user-attachments/assets/3ad9820a-7b46-4499-ba11-cbd9bd2ef653" />
-<img width="619" height="416" alt="Pasted image 20260318201630" src="https://github.com/user-attachments/assets/b1683dc6-6426-47d9-8058-8236e3b68ed7" />
-<img width="619" height="416" alt="Pasted image 20260318201622" src="https://github.com/user-attachments/assets/6b36bd99-8851-40be-883c-b6be6deb4674" />
-<img width="619" height="416" alt="Pasted image 20260318201622" src="https://github.com/user-attachments/assets/6b36bd99-8851-40be-883c-b6be6deb4674" />
-<img width="1166" height="610" alt="Pasted image 20260318195610" src="https://github.com/user-attachments/assets/266483fb-afcc-4183-828a-a915f27b5699" />
-<img width="1166" height="610" alt="Pasted image 20260318195610" src="https://github.com/user-attachments/assets/266483fb-afcc-4183-828a-a915f27b5699" />
-<img width="1515" height="152" alt="Pasted image 20260318195437" src="https://github.com/user-attachments/assets/549e50fb-7bd5-461e-8a98-97f8f05fab1e" />
-<img width="1515" height="152" alt="Pasted image 20260318195437" src="https://github.com/user-attachments/assets/549e50fb-7bd5-461e-8a98-97f8f05fab1e" />
-<img width="1553" height="250" alt="Pasted image 20260318192715" src="https://github.com/user-attachments/assets/5f0022de-0d13-4439-a6ae-80018862412b" />
-<img width="1553" height="250" alt="Pasted image 20260318192715" src="https://github.com/user-attachments/assets/5f0022de-0d13-4439-a6ae-80018862412b" />
-<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/1bd28272-415c-42d0-a422-cf03114e216d" />
-<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/1bd28272-415c-42d0-a422-cf03114e216d" />
+
+<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/56cfb6a4-83ff-44b2-b7bc-bf552ffe539a" />
+<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/56cfb6a4-83ff-44b2-b7bc-bf552ffe539a" />
 
