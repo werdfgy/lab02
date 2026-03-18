@@ -1,4 +1,4 @@
-<img width="1174" height="713" alt="Pasted image 20260318201749" src="https://github.com/user-attachments/assets/3ad9820a-7b46-4499-ba11-cbd9bd2ef653" /><img width="619" height="416" alt="Pasted image 20260318201630" src="https://github.com/user-attachments/assets/b1683dc6-6426-47d9-8058-8236e3b68ed7" /># Homework
+<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/0923d935-dcee-43ea-9c63-67baaf62fa83" /><img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/0923d935-dcee-43ea-9c63-67baaf62fa83" /># Homework
 ## Сделал: Жданов Владимир ИУ8-23
 ### Part I
 
@@ -94,7 +94,7 @@ To https://github.com/werdfgy/lab02.git
 * e8b6c91 add hello_world with bad code style
 * 4e586e6 added README.md
    ```
-Pasted image 20260318192715.png
+![[Pasted image 20260318192715.png]]
 ### Part II
 
 [](https://github.com/tp-labs/lab02#part-ii)
@@ -153,7 +153,7 @@ branch 'patch1' set up to track 'origin/patch1'.
 66bd9654e9a60446f3018c1d9bfae9ecd5ad1418        refs/heads/patch1
    ```
 5. Создайте pull-request `patch1 -> master`.
-   Pasted image 20260318195437.png
+   ![[Pasted image 20260318195437.png]]
 6. В локальной копии в ветке `patch1` добавьте в исходный код комментарии.
    ``` bash
    $ nano hello_world.cpp
@@ -191,7 +191,7 @@ To https://github.com/werdfgy/lab02.git
    66bd965..dca6976  patch1 -> patch1
    ```
 8. Проверьте, что новые изменения есть в созданном на **шаге 5** pull-request
-   Pasted image 20260318195610.png
+   ![[Pasted image 20260318195610.png]]
 9. В удалённый репозитории выполните слияние PR `patch1 -> master` и удалите ветку `patch1` в удаленном репозитории.
 10. Локально выполните **pull**.
 ```bash
@@ -265,10 +265,10 @@ To https://github.com/werdfgy/lab02.git
 branch 'patch2' set up to track 'origin/patch2'.
    ```
 4. В ветке **master** в удаленном репозитории измените комментарии, например, расставьте знаки препинания, переведите комментарии на другой язык.
-   Pasted image 20260318201630.png
+   ![[Pasted image 20260318201630.png]]
 изменен комментарий в строчке 8
 5. Убедитесь, что в pull-request появились _конфликтны_.
-   Pasted image 20260318201749.png
+![[Pasted image 20260318201749.png]]
 6. Для этого локально выполните **pull** + **rebase** (точную последовательность команд, следует узнать самостоятельно). **Исправьте конфликты**.
    ``` bash
 $ git checkout patch2
@@ -362,9 +362,8 @@ To https://github.com/werdfgy/lab02.git
  + 8e53df0...f6b6a71 patch2 -> patch2 (forced update)
    ```
 8. Убедитель, что в pull-request пропали конфликтны.
-<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/f3f95390-f5e8-4c69-990a-cba0d27ad513" />
+<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/2bf3f01f-81b5-4f65-9958-faf41dfd829e" />
 
 9. Вмержите pull-request `patch2 -> master`.
-
-<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/56cfb6a4-83ff-44b2-b7bc-bf552ffe539a" />
+<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/a55b4c58-136e-4e15-a674-4231dd8b9f20" />
 
