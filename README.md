@@ -362,9 +362,9 @@ To https://github.com/werdfgy/lab02.git
  + 8e53df0...f6b6a71 patch2 -> patch2 (forced update)
    ```
 8. Убедитель, что в pull-request пропали конфликтны.
-Pasted image 20260318203305.png
+<img width="1191" height="772" alt="Pasted image 20260318203305" src="https://github.com/user-attachments/assets/f3f95390-f5e8-4c69-990a-cba0d27ad513" />
+
 9. Вмержите pull-request `patch2 -> master`.
 
-<img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/56cfb6a4-83ff-44b2-b7bc-bf552ffe539a" />
 <img width="1103" height="125" alt="Pasted image 20260318203337" src="https://github.com/user-attachments/assets/56cfb6a4-83ff-44b2-b7bc-bf552ffe539a" />
 
